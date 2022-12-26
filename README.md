@@ -1,5 +1,6 @@
 ## Description
 Tools being used:
+- IntelliJ
 - JUnit5
 - Rest-Assured
 - Java
